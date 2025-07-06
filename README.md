@@ -1,4 +1,4 @@
-#Samoil Gjorgiev 愛!
+# 👾 sam0il's codeverse:
 
 Hi, I'm Samoil Gjorgiev a second year student at the **Faculty of Mathematics, Natural Sciences and Information Technologies (UP FAMNIT)**. My passion for programming began back in **Technical High School**, where I specialized in **Computer Technology and Automation**, and has only grown stronger since then.
 
