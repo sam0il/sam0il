@@ -1,6 +1,6 @@
-# 👋 Welcome to my GitHub!
+#Samoil Gjorgiev 愛!
 
-Hi, I'm Samo — a second-year student at the **Faculty of Mathematics, Natural Sciences and Information Technologies (UP FAMNIT)**. My passion for programming began back in **Technical High School**, where I specialized in **Computer Technology and Automation**, and has only grown stronger since then.
+Hi, I'm Samoil Gjorgiev a second year student at the **Faculty of Mathematics, Natural Sciences and Information Technologies (UP FAMNIT)**. My passion for programming began back in **Technical High School**, where I specialized in **Computer Technology and Automation**, and has only grown stronger since then.
 
 This GitHub (and my GitLab) contain a mix of **university coursework**, **personal experiments**, and **side projects** where I explore everything from web design to game development and system-level C programming.
 
@@ -20,7 +20,7 @@ This GitHub (and my GitLab) contain a mix of **university coursework**, **person
 Here are some of the highlights from my GitHub and GitLab:
 
 ### 🎮 [Grid-Based Score Strategy Game](https://github.com/sam0il/Grid-Based-Score-Strategy-Game)
-A strategy game developed from scratch using a top-down perspective and grid logic. Built with performance and gameplay balance in mind — ideal for exploring AI pathfinding and game-state control.
+A strategy game developed from scratch using a top-down perspective and grid logic. Built with performance and gameplay balance in mind ideal for exploring AI pathfinding and game-state control.
 
 ### 🧠 [Brute Password Cracker](https://gitlab.com/sam0il/brutepasswordproject)
 A security-focused tool that supports **brute-force** and **dictionary attacks**. Includes both **sequential** and **parallel** implementations (CUDA version in progress), complete with real-time progress tracking and a GUI for ease of use.
